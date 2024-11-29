@@ -1,1 +1,18 @@
 
+[
+	{
+		"_id" : 1,
+		"tablica" : "BG-1234-AS",
+		"tip" : "Automobil"
+	},
+	{
+		"_id" : 2,
+		"tablica" : "BG-97-TEST",
+		"tip" : "Automobil"
+	},
+	{
+		"_id" : 3,
+		"tip" : "Automobil",
+		"tablica" : "BG-9999-AA"
+	}
+]
